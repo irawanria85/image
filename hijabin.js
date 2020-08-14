@@ -1,6 +1,7 @@
 var images = [],
     index = 0;
- images[0] = "<img src='https://i.pinimg.com/564x/00/10/20/001020b0b08a66a118ee138b6428b0ae.jpg' />";
+
+images[0] = "<img src='https://i.pinimg.com/564x/00/10/20/001020b0b08a66a118ee138b6428b0ae.jpg' />";
 images[1] = "<img src='https://i.pinimg.com/564x/00/5e/38/005e3862c87c1ba303cbf65ab826450f.jpg' />";
 images[2] = "<img src='https://i.pinimg.com/564x/00/63/da/0063da1972a4be9b6751b273a4aa1618.jpg' />";
 images[3] = "<img src='https://i.pinimg.com/564x/00/81/3d/00813df173565024c7168be4dddcab5e.jpg' />";
@@ -704,7 +705,6 @@ images[700] = "<img src='https://i.pinimg.com/564x/fe/c9/c4/fec9c45d12cf6a891f0d
 images[701] = "<img src='https://i.pinimg.com/564x/fe/ff/7f/feff7fc1124facbea2115c0525c45b87.jpg' />";
 images[702] = "<img src='https://i.pinimg.com/564x/ff/be/7d/ffbe7dd6a8ad19e37b898e46cabadac9.jpg' />";
 images[703] = "<img src='https://i.pinimg.com/564x/ff/e2/51/ffe25116c0a2f3a0b55e561575fca985.jpg' />";
-
-    
+  
 index = Math.floor(Math.random() * images.length);
 document.write(images[index]);
