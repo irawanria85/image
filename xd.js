@@ -1438,6 +1438,5 @@ images[1433] = "<img src='https://1.bp.blogspot.com/-zup6yV6SPjY/YBLZqXKWaeI/AAA
 images[1434] = "<img src='https://1.bp.blogspot.com/-zVM6vy8qpi0/YBLbGepevnI/AAAAAAAABrU/Rrtt8mkofYMzNwWmcmx51aUof4WxXckFACLcBGAsYHQ/131890732_821690271709226_7686640203671114454_n.jpg'/>";
 images[1435] = "<img src='https://1.bp.blogspot.com/-zzK-NCDmIFg/YBLc4lcBa-I/AAAAAAAABxg/SoMXj93-Hp0X6S8bFQoRfjc2JQFsNwGigCLcBGAsYHQ/134952959_5527817237235763_313509401809386700_n.jpg'/>";
 
-
 index = Math.floor(Math.random() * images.length);
 document.write(images[index]);
